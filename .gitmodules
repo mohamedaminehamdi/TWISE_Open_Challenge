@@ -1,0 +1,3 @@
+[submodule "MentalHealthCareApp_AdminDashboard"]
+	path = MentalHealthCareApp_AdminDashboard
+	url = https://github.com/mohamedaminehamdi/HealthCareApp.git
