@@ -1,6 +1,12 @@
 # 🧠 TherapyAI - AI-Powered Mental Health Support
 <div align="center">
   <br />
+  <!-- Add logo here -->
+  <a href="https://your-logo-link.com" target="_blank">
+    <img src="https://your-logo-image-url.com/logo.png" alt="Your Logo" width="100" />
+  </a>
+  <br />
+  <br />
     <a href="https://youtu.be/lEflo_sc82g?feature=shared" target="_blank">
       <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner">
     </a>
