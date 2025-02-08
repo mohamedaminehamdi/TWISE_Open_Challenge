@@ -30,10 +30,10 @@
 5. 🤸 [Getting Started](#GettingStarted)
 6. 🕸️ [Contributors](#Contributors)
 ## Demo Video
-
 Check out the demo video to see how the project works:
 
-[![Demo Video]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0](https://www.loom.com/share/0d88cc1ec7214e32ae9617b828fe9450?sid=8cd65074-1a1c-4fb6-9329-fcca30089268).jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.loom.com/share/0d88cc1ec7214e32ae9617b828fe9450?sid=8cd65074-1a1c-4fb6-9329-fcca30089268))
+[Demo Video on Loom](https://www.loom.com/share/0d88cc1ec7214e32ae9617b828fe9450?sid=8cd65074-1a1c-4fb6-9329-fcca30089268)
+
 
 ## Overview
 
