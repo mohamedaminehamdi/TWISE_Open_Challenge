@@ -7,3 +7,6 @@
 [submodule "TherapyAI-front"]
 	path = TherapyAI-front
 	url = https://github.com/tarek-gritli/TherapyAI-front.git
+[submodule "twisechallenge"]
+	path = twisechallenge
+	url = https://github.com/skan45/twisechallenge.git
