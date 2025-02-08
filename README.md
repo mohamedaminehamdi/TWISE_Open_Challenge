@@ -18,12 +18,11 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
+1. 🤖 [Overview](#Overview)
+2. ⚙️ [Features](#Features)
+3. 🔋 [Tech Stack](#TechStack)
+4. 🤸 [Getting Started](#quick-start)
+5. 🕸️ [Contributors)](#Contributors)
 
 ## Overview
 TherapyAI is an AI-powered mental health application that provides users with personalized therapy support through a combination of:
@@ -68,9 +67,9 @@ TherapyAI is an AI-powered mental health application that provides users with pe
 |------------|------------|
 | **AI Chatbot** | Gemini, LangChain, RAG-based System |
 | **Backend** | FastAPI / Flask / Node.js |
-| **Database** | Firebase, MongoDB, PostgreSQL |
-| **Frontend** | React.js, Flutter, Next.js |
-| **Security** | End-to-End Encryption, OAuth |
+| **Database** | appwrite |
+| **Frontend** | React.js,  Next.js, tailwind css |
+| **Security** | End-to-End Encryption, OAuth, helmet, serenity, jwt web token |
 
 ## Getting Started
 
