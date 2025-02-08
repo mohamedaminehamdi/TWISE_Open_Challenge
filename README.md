@@ -24,16 +24,22 @@
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 📹 [Demo Video](#DemoVideo)
-2. 🤖 [Overview](#Overview)
-3. ⚙️ [Features](#Features)
-4. 🔋 [Tech Stack](#TechStack)
-5. 🤸 [Getting Started](#GettingStarted)
-6. 🕸️ [Contributors](#Contributors)
+2. 👨🏻‍🏫 [Presentation](#Presentation)
+3. 🤖 [Overview](#Overview)
+4. ⚙️ [Features](#Features)
+5. 🔋 [Tech Stack](#TechStack)
+6. 🤸 [Getting Started](#GettingStarted)
+7. 🕸️ [Contributors](#Contributors)
 ## Demo Video
 Check out the demo video to see how the project works:
 
 [Demo Video on Loom](https://www.loom.com/share/0d88cc1ec7214e32ae9617b828fe9450?sid=8cd65074-1a1c-4fb6-9329-fcca30089268)
 
+## Presentation
+
+Check out the presentation for more details:
+
+[Presentation on Canva](https://drive.google.com/file/d/1V6Pgfo4FLTjtZCX6nikcNFQTQAdjwxak/view?usp=sharing)
 
 ## Overview
 
