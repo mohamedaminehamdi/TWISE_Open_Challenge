@@ -1,15 +1,12 @@
 # 🧠 TherapyAI - AI-Powered Mental Health Support
+
 <div align="center">
   <br />
   <!-- Add logo here -->
-  <a href="https://your-logo-link.com" target="_blank">
-    <img src="https://your-logo-image-url.com/logo.png" alt="Your Logo" width="100" />
-  </a>
+  <img src="assets/logo.png" alt="TherapyAI Logo"/>
   <br />
   <br />
-    <a href="https://youtu.be/lEflo_sc82g?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner">
-    </a>
+  <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner" />
   <br />
 
   <div>
@@ -33,6 +30,7 @@
 5. 🕸️ [Contributors](#Contributors)
 
 ## Overview
+
 TherapyAI is an AI-powered mental health application that provides users with personalized therapy support through a combination of:
 
 - **🤖 AI Chatbot Therapist** trained in CBT (Cognitive Behavioral Therapy) principles
@@ -43,6 +41,7 @@ TherapyAI is an AI-powered mental health application that provides users with pe
 ## Features
 
 ### 🤖 AI Chatbot Therapist
+
 - Provides real-time mental health support using CBT-based conversational AI
 - Identifies negative thought patterns and suggests personalized CBT exercises
 - Helps users track their emotional progress over time
@@ -50,49 +49,54 @@ TherapyAI is an AI-powered mental health application that provides users with pe
 - **RAG-based Knowledge Retrieval** to improve chatbot accuracy and personalization
 
 ### 🩺 Live Therapy Sessions
+
 - Users can schedule 1-on-1 therapy sessions with professional therapists
 - Secure video calls & chat-based consultations
 - **HIPAA & GDPR-compliant** for data privacy and security
 
 ### 🌍 Community Support Forum
+
 - A safe space for users to share experiences and support each other
 - Moderated by licensed mental health professionals
 - Anonymous posting options for privacy
 
-### 📝 AI-Generated CBT Exercises
-- Dynamic exercises based on user input (e.g., thought-challenging, mindfulness, journaling)
-- Personalized progress tracking with daily challenges
-- Generates weekly therapy workbooks & PDF reports
+### 📝 CBT Exercises
+
+- Users can access a library of CBT exercises to manage their mental health
 
 ### 🚨 Crisis Detection & Emergency Assistance
+
 - AI detects suicidal ideation/self-harm risks and provides immediate support
 - Suggests emergency contacts & hotlines
 - Option to notify a trusted contact (with user consent)
 
 ## Tech Stack
 
-| Component   | Technology |
-|------------|------------|
-| **AI Chatbot** | Gemini, LangChain, RAG-based System |
-| **Backend** | FastAPI / Flask / Node.js |
-| **Database** | appwrite |
-| **Frontend** | React.js,  Next.js, tailwind css |
-| **Security** | End-to-End Encryption, OAuth, helmet, serenity, jwt web token |
+| Component      | Technology                                          |
+| -------------- | --------------------------------------------------- |
+| **AI Chatbot** | Gemini, LangChain, RAG-based System                 |
+| **Backend**    | Flask / Node.js                                     |
+| **Database**   | Appwrite                                            |
+| **Frontend**   | React.js, Next.js, tailwind css                     |
+| **Security**   | End-to-End Encryption, OAuth, helmet, serenity, jwt |
 
 ## Getting Started
 
 ### 1. Clone the Repository
+
 ```bash
-git clone https://github.com/your-repo/TherapyAI.git
+git clone https://github.com/tarek-gritli/TherapyAI-front.git
 cd TherapyAI
 ```
 
 ### 2. Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ### 3. Obtain a Gemini API Key
+
 To use the AI Chatbot, you need to obtain a Gemini API key. Follow these steps:
 
 1. Go to the [Google AI Studio](https://ai.google.dev/).
@@ -101,17 +105,23 @@ To use the AI Chatbot, you need to obtain a Gemini API key. Follow these steps:
 4. Copy the generated API key.
 
 ### 4. Set Up the API Key
+
 Once you have the API key, you need to set it up in the application. Create a `.env` file in the root directory of the project and add the following line:
+
 ```bash
 GEMINI_API_KEY=your_gemini_api_key_here
 ```
+
 Replace `your_gemini_api_key_here` with the API key you copied from Google AI Studio.
 
 ### 5. Run the Chatbot Application
+
 #### Backend for Gemini
+
 ```bash
 python gemini.py  # Runs Flask backend
 ```
+
 ### 6. Now running the web app
 
 ```bash
@@ -120,6 +130,7 @@ cd MentalHealthCareApp
 ```
 
 ### 7. Installation
+
 Install the project dependencies using npm:
 
 ```bash
@@ -150,8 +161,11 @@ Replace the placeholder values with your actual Appwrite credentials. You can ob
 ```bash
 npm run dev
 ```
+
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
 ### 10. Running the forum app
+
 ```bash
 cd ..
 cd MentalHealthCareForum
@@ -171,8 +185,9 @@ npm install
 npm run dev
 ```
 
-## Contributors 🎉  
-Thanks to all the amazing contributors who have helped build TherapyAI!  
+## Contributors 🎉
+
+Thanks to all the amazing contributors who have helped build TherapyAI!
 
 <table>
   <tr>
@@ -188,10 +203,10 @@ Thanks to all the amazing contributors who have helped build TherapyAI!
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/abderbj">
-        <img src="https://github.com/abderbj.png" width="100px;" alt="Abderrahmane B.J"/>
+      <a href="https://github.com/tarek-gritli">
+        <img src="https://github.com/tarek-gritli.png" width="100px;" alt="Tarek Gritli"/>
         <br />
-        <sub><b>Abderrahmane B.J</b></sub>
+        <sub><b>Tarek Gritli</b></sub>
       </a>
     </td>
   </tr>
@@ -199,10 +214,10 @@ Thanks to all the amazing contributors who have helped build TherapyAI!
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/abderbj">
-        <img src="https://github.com/abderbj.png" width="100px;" alt="Abderrahmane B.J"/>
+      <a href="https://github.com/skan45">
+        <img src="https://github.com/skan45.png" width="100px;" alt="Skander Gritli"/>
         <br />
-        <sub><b>Abderrahmane B.J</b></sub>
+        <sub><b>Skander Gritli</b></sub>
       </a>
     </td>
   </tr>
@@ -210,26 +225,57 @@ Thanks to all the amazing contributors who have helped build TherapyAI!
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/abderbj">
-        <img src="https://github.com/abderbj.png" width="100px;" alt="Abderrahmane B.J"/>
+      <a href="https://github.com/mohamedaminehamdi
+">
+        <img src="https://github.com/mohamedaminehamdi
+.png" width="100px;" alt="Mohamed Amine Hamdi"/>
         <br />
-        <sub><b>Abderrahmane B.J</b></sub>
+        <sub><b>Mohamed Amine Hamdi</b></sub>
       </a>
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/abderbj">
-        <img src="https://github.com/abderbj.png" width="100px;" alt="Abderrahmane B.J"/>
-        <br />
-        <sub><b>Abderrahmane B.J</b></sub>
-      </a>
-    </td>
-  </tr>
-</table
-
 
 ---
+
 This README provides a comprehensive guide to setting up and running the TherapyAI application. Make sure to follow the steps carefully to ensure a smooth setup process. If you encounter any issues, feel free to reach out to the support team.
+
+## 📸 Screenshots
+
+Here are some screenshots of the TherapyAI application in action:
+
+### Home Page
+
+![Home Page](assets/Landing-Page.jpg)
+
+### AI Chatbot Therapist
+
+![AI Chatbot Therapist](assets/chatbot.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](assets/admin-dashboard.jpg)
+
+### User Dashboard
+
+![User Dashboard](assets/userdashboard.jpg)
+
+### Community Support Forum
+
+![Community Support Forum](assets/Communities.jpg)
+
+### CBT Exercises
+
+![CBT Exercises](assets/advice.jpg)
+
+These screenshots provide a glimpse into the various features and functionalities of the TherapyAI application.
+
+### Sign In
+
+#### Page 1
+
+![Sign In](assets/signin1.jpg)
+
+#### Page 2
+
+![Sign In](assets/signin2.jpg)
