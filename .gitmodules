@@ -4,3 +4,6 @@
 [submodule "MentalHealthCareForum"]
 	path = MentalHealthCareForum
 	url = https://github.com/mohamedaminehamdi/MentalHealthCareForum.git
+[submodule "TherapyAI-front"]
+	path = TherapyAI-front
+	url = https://github.com/tarek-gritli/TherapyAI-front.git
