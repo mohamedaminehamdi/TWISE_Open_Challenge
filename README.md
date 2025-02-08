@@ -227,8 +227,7 @@ Thanks to all the amazing contributors who have helped build TherapyAI!
     <td align="center">
       <a href="https://github.com/mohamedaminehamdi
 ">
-        <img src="https://github.com/mohamedaminehamdi
-.png" width="100px;" alt="Mohamed Amine Hamdi"/>
+        <img src="https://github.com/mohamedaminehamdi.png" width="100px;" alt="Mohamed Amine Hamdi"/>
         <br />
         <sub><b>Mohamed Amine Hamdi</b></sub>
       </a>
