@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
+    <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logoColor=white&logo=python&color=3776AB" alt="python" />
+    <img src="https://img.shields.io/badge/-Gemini-black?style=for-the-badge&logoColor=white&logo=gemini&color=4285F4" alt="gemini" />
   </div>
   
   <h3 align="center">A Mental HealthCare Management System</h3>
@@ -20,8 +22,8 @@
 
 1. 🤖 [Overview](#Overview)
 2. ⚙️ [Features](#Features)
-3. 🔋 [Tech Stack](#Tech Stack)
-4. 🤸 [Getting Started](#Getting Started)
+3. 🔋 [Tech Stack](#TechStack)
+4. 🤸 [Getting Started](#GettingStarted)
 5. 🕸️ [Contributors](#Contributors)
 
 ## Overview
