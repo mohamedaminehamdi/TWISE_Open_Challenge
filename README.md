@@ -34,6 +34,7 @@
 Check out the demo video to see how the project works:
 
 [Demo Video on Loom](https://www.loom.com/share/0d88cc1ec7214e32ae9617b828fe9450?sid=8cd65074-1a1c-4fb6-9329-fcca30089268)
+[Demo Video on Google Drive](https://drive.google.com/file/d/17U0nz_wzMtdTKaEQse1KIAAht8QIzId6/view?usp=sharing)
 
 ## Presentation
 
