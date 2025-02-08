@@ -10,3 +10,6 @@
 [submodule "twisechallenge"]
 	path = twisechallenge
 	url = https://github.com/skan45/twisechallenge.git
+[submodule "TherapyAi_LandingPage"]
+	path = TherapyAi_LandingPage
+	url = https://github.com/mohamedaminehamdi/LandingPage.git
