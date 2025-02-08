@@ -226,4 +226,4 @@ Thanks to all the amazing contributors who have helped build TherapyAI!
 
 
 ---
-This README provides a comprehensive guide to setting up and running the CarePulse application. Make sure to follow the steps carefully to ensure a smooth setup process. If you encounter any issues, feel free to reach out to the support team.
+This README provides a comprehensive guide to setting up and running the TherapyAI application. Make sure to follow the steps carefully to ensure a smooth setup process. If you encounter any issues, feel free to reach out to the support team.
