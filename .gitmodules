@@ -13,3 +13,6 @@
 [submodule "TherapyAi_LandingPage"]
 	path = TherapyAi_LandingPage
 	url = https://github.com/mohamedaminehamdi/LandingPage.git
+[submodule "MentalHealthCare_AdminDashboard"]
+	path = MentalHealthCare_AdminDashboard
+	url = https://github.com/mohamedaminehamdi/MentalHealthCareApp.git
