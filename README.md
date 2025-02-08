@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
   </div>
-
+  
   <h3 align="center">A Mental HealthCare Management System</h3>
 </div>
 
@@ -20,9 +20,9 @@
 
 1. 🤖 [Overview](#Overview)
 2. ⚙️ [Features](#Features)
-3. 🔋 [Tech Stack](#TechStack)
-4. 🤸 [Getting Started](#quick-start)
-5. 🕸️ [Contributors)](#Contributors)
+3. 🔋 [Tech Stack](#Tech Stack)
+4. 🤸 [Getting Started](#Getting Started)
+5. 🕸️ [Contributors](#Contributors)
 
 ## Overview
 TherapyAI is an AI-powered mental health application that provides users with personalized therapy support through a combination of:
